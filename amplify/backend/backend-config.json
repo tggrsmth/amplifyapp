@@ -6,5 +6,17 @@
       "dependsOn": [],
       "customAuth": false
     }
+  },
+  "function": {
+    "ThirdPartyServiceCall": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    },
+    "CallThirdPartyService": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
   }
 }

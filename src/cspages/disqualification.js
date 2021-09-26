@@ -8,7 +8,7 @@ class Disqualify extends React.Component {
                 <h2>DISQUALIFIED</h2>   
                 <br/>
                 <br/> 
-                <p>You have been disqualified for the following reason:</p>
+                <p>You have been disqualified from making an investment</p>
 
                 <p>Please call customer server at 1-ZZZ-239-5473.  Thank you.</p>
             </div>
